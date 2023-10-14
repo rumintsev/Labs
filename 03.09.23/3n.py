@@ -6,3 +6,4 @@ for i in range(n):
     arr[i] += 10
     arr[i] *= 2
     arr[i] //= 4
+
