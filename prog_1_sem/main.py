@@ -55,7 +55,6 @@ def vision(str):
 
 
 vision("start_help")
-comands = ["-help", "-new", "-del", "-cat", "-ful"]
 current = datetime.now()
 now = str(current.day) + '.' + str(current.month) + '.' + str(current.year)[-2:]
 while (1):
